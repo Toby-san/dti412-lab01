@@ -5,11 +5,11 @@ git --version
 Purpose: Check the installed Git version.
 
 2. Configure Username
-git config --global user.name "Your Name"
+git config --global user.name "Htoo Aung Hlaing Win"
 Purpose: Set your Git username.
 
 3. Configure Email
-git config --global user.email "your@email.com"
+git config --global user.email "htooaung.edu2003@gmail.com"
 Purpose: Set your Git email address.
 
 4. Display Configuration
@@ -17,7 +17,7 @@ git config --list
 Purpose: Show Git configuration information.
 
 5. Clone Repository
-git clone repository-url
+git clone https://github.com/Toby-san/dti412-lab01
 Purpose: Download a GitHub repository.
 
 6. Check Status

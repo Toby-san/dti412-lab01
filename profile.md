@@ -25,3 +25,13 @@ From DTI412, I expect to master professional version control practices with Git 
 - **Technical skills I want to improve:** Advanced JavaScript, Python backend development, responsive UI/UX engineering
 - **Technologies I want to learn:** Node.js, Express, Django, REST APIs, Docker, and Cloud Deployment
 - **Dream Job Position:** Full Stack Developer
+
+## Semester Goals
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+## Portfolio Projects
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
